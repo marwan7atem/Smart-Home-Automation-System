@@ -1,7 +1,3 @@
-Perfect 👍 If you already have a screenshot, we can include it in the **README.md**. Here’s a professional draft for your *Smart Home Automation System* project:
-
----
-
 # 🏠 Smart Home Automation System (ATmega32)
 
 The **Smart Home Automation System** is built on the **ATmega32 microcontroller** to automate lighting, fan speed, and fire detection. It demonstrates embedded system design using multiple sensors, drivers, and real-time monitoring.
